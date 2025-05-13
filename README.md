@@ -1,2 +1,2 @@
 # RFMOPerformance
- RFMO data and code for Enbironmental Research Letters Review
+ RFMO data and code for Environmental Research Letters Review
